@@ -30,7 +30,7 @@ AI가 자동으로 **스토리 기반** 또는 **하이라이트 기반**으로 
 
 ## 🛠️ 시스템 구성
 
-![](https://github.com/user-attachments/assets/1ede8a17-e616-4a9f-9d4b-863cdcb2cc1f)
+<img width="1326" height="683" alt="videosummary 구조도" src="https://github.com/user-attachments/assets/c83b00ec-3e3e-4d9b-91dd-de1c7b1ede79" />
 
 
 ### 🔧 개발 환경 및 도구
@@ -52,18 +52,15 @@ AI가 자동으로 **스토리 기반** 또는 **하이라이트 기반**으로 
 ## 📷 주요 화면
 
 <br>
-
-<img src="https://github.com/user-attachments/assets/1878b8cd-2bbf-4fb2-aca6-532cd38ae4dc" width="60%" />
+<img width="3670" height="2110" alt="videosummary 영상 요약 옵션" src="https://github.com/user-attachments/assets/2df059db-f98c-4777-92e8-d0b154388b1f" />
 <br><sub>업로드 및 옵션 선택 화면</sub>
-
 <br><br>
 
-<img src="https://github.com/user-attachments/assets/35f2ed3e-4e28-4192-acdb-5288e9e3d1eb" width="60%" />
+<img width="3670" height="2110" alt="videosummary 요약 진행" src="https://github.com/user-attachments/assets/b3e2bcd5-e987-40df-9b2e-66aaa9f9d044" />
 <br><sub>요약 처리 과정</sub>
-
 <br><br>
 
-<img src="https://github.com/user-attachments/assets/0ac5f2b9-6856-4d14-8246-10129e40c634" width="60%" />
+<img width="6630" height="3830" alt="videosummary 요약 결과" src="https://github.com/user-attachments/assets/d7ab5315-62e3-4231-8bef-4da6b778edd1" />
 <br><sub>요약 결과 영상</sub>
 
 </div>
